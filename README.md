@@ -4,7 +4,6 @@
 
 - Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022.
 - Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024.
-- Máster universitario en Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas, en la especialidad de Matemáticas e Informática, por la Universidad Católica de Ávila 2022-2023.
 
 ### Lenguajes y Herramientas que utilizo:
 
