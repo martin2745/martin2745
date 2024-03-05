@@ -2,8 +2,8 @@
 
 ### Estudios:
 
-- Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022.
-- Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024.
+- Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022. Nota: 8:03.
+- Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024. Nota: 8:76.
 
 ### Lenguajes y Herramientas que utilizo:
 
