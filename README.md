@@ -20,7 +20,13 @@
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
 <br />
 
-### Contactame!:
+> Control de versiones
+
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Contacto!:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 <br />
