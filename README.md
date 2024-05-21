@@ -1,11 +1,11 @@
-### ¡Hola a todos! Mi nombre es Martín Gil Blanco 👋
+# 💫¡Hola a todos! Mi nombre es Martín Gil Blanco 👋
 
 ### Estudios:
 
 - Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022. Nota: 8:03.
 - Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024. Nota: 8:76.
 
-### Lenguajes y Herramientas que utilizo:
+### 💻 Lenguajes y Herramientas que utilizo:
 
 **Generales:**
 <br />
@@ -34,7 +34,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Contacto!:
+### 🌐 Contacto!:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-gil-blanco/)
 
