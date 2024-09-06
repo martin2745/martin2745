@@ -6,6 +6,9 @@
 - Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024. Nota: 8:76.
 - Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
 
+### 💬 Noticia:
+- 🌱 Entrevista Voz De Galicia [aquí](https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm)
+
 ### 💻 Lenguajes y Herramientas que utilizo:
 
 **Generales:**
@@ -38,6 +41,3 @@
 ### 🌐 Contacto!:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-gil-blanco/)
-
-### 💬 Noticia:
-- 🌱 Entrevista Voz De Galicia [aquí](https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm)
