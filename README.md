@@ -3,7 +3,7 @@
 ### Estudios:
 
 - Graduado en Ingeniería Informática en ESEI Universidad de Vigo 2018-2022. Nota: 8:03.
-- Máster en Ingeniería Informática MEI Universidad de Vigo 2023-2024. Nota: 8:76.
+- Máster en Ingeniería Informática MEI Universidad de Vigo 2022-2024. Nota: 8:76.
 - Máster de Educación Universidad Católica de Ávila 2022-2023.
 - Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
 
