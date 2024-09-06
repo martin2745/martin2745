@@ -7,7 +7,7 @@
 - Máster de Educación Universidad Católica de Ávila 2022-2023.
 - Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
 
-### Noticia:
+### Noticias:
 - 💬 [Entrevista Voz De Galicia](https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm)
 
 ### 💻 Lenguajes y Herramientas que utilizo:
