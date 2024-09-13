@@ -27,5 +27,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 💬 Noticias:
+[![Entrevista Voz de Galicia](https://img.shields.io/badge/Entrevista_Voz_de_Galicia-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm)
+
 ### 🌐 Contacto!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martín-gil-blanco/)
