@@ -7,6 +7,10 @@
 - Máster de Educación Universidad Católica de Ávila 2022-2023.
 - Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
 
+### ⚙️ Certificaciones
+
+![LPIC-1](https://lpi.org/verify/LPI000655256/uncck9kuus)
+
 ### 💻 Lenguajes y Herramientas que utilizo:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
