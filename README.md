@@ -33,8 +33,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
+![Ansible](https://img.shields.io/badge/Ansible-2496ED?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 💬 Noticias:
 [![Entrevista Voz de Galicia](https://img.shields.io/badge/Entrevista_Voz_de_Galicia-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm)
