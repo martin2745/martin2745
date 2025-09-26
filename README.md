@@ -7,6 +7,10 @@
 - Máster de Educación Universidad Católica de Ávila 2022-2023.
 - Profesor de Sistemas y Aplicaciones Informáticas de la Xunta de Galicia.
 
+#### Cursando actualmente:
+- Máster en Ciberseguridad Universidad Isabel I 2025/2026.
+- FP de Desarrollo de aplicaciones Web a Distancia 2020/2025.
+
 ### ⚙️ Certificaciones
 
 - [LPIC-1](https://lpi.org/verify/LPI000655256/uncck9kuus)
